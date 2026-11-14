@@ -1,0 +1,1 @@
+C:\Users\NewTech\Desktop\MAX_Lab\Programming\Prolang_Learning\Rust\chap1\first_program\target\debug\main.exe: C:\Users\NewTech\Desktop\MAX_Lab\Programming\Prolang_Learning\Rust\chap1\first_program\src\helper.rs C:\Users\NewTech\Desktop\MAX_Lab\Programming\Prolang_Learning\Rust\chap1\first_program\src\main.rs
